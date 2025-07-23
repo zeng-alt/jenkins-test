@@ -1,0 +1,3 @@
+@echo off
+echo Starting Java application...
+java -jar .\target\jenkins-test-0.0.1-SNAPSHOT.jar
